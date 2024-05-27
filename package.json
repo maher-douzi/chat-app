@@ -1,7 +1,7 @@
 {
   "name": "chating",
   "version": "0.1.0",
-  "homepage":"https://maher-douzi.github.io/chat-app",
+  "homepage": "https://maher-douzi.github.io/chat-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
